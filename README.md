@@ -1,6 +1,6 @@
 # 🗣️ AlexCipher: Your Digital Voice Companion
 
-**AlexCipher** is a **Final Project** for the **Algorithms & Complexity (ALC01)** course at **Angeles University Foundation**, College of Computer Studies. It is an interactive, Python-based digital voice assistant designed to perform encryption and decryption tasks using classical ciphers.
+**AlexCipher** is an interactive, Python-based digital voice assistant designed to perform encryption and decryption tasks using classical ciphers.
 
 ## ✨ Introduction
 
